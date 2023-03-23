@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/static/v1?label=Kotlin&message=DiceRoll&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <h2 id="Autor" align="center">• Gustavo Leite Ribeiro</h2>
-<p>• https://www.linkedin.com/in/gustavo-leite-2ab31625b/</p>
+<p align="center">• https://www.linkedin.com/in/gustavo-leite-2ab31625b/</p>
