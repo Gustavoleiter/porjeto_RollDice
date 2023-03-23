@@ -12,12 +12,12 @@
 </p>
 
 
-<h2 id="Tecnologias" align="center">• Kotlin</h2>
+<h2 id="Tecnologias" align="center">• Tecnologias</h2>
 <h3 align="center">Feito com a linguagem : <img src="https://img.shields.io/static/v1?label=Kotlin&message=DiceRoll&color=7159c1&style=for-the-badge&logo=ghost" />
 </h3>
 
 
-<h2 align="center">• Em execução</h2>
+<h2 align="center" id="Aplicação">• Em execução</h2>
 <p align="center"><img src="https://user-images.githubusercontent.com/125610281/227073461-7377aaa5-0eb7-4ddb-9ea8-21a8f9006fcd.png" width="300px" heigth="400px"/>
 </p>
 
