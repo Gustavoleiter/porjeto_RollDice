@@ -18,6 +18,8 @@
 
 
 <h2 id="Aplicação" align="center">•Tela inicial</h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/125610281/227073461-7377aaa5-0eb7-4ddb-9ea8-21a8f9006fcd.png" width="400px" heigth="500px/>
+</p>
 
  
  
