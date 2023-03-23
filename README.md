@@ -37,5 +37,5 @@
 
 
 <h2 id="Autor" align="center">• Autor</h2>
-<p align="center">• Gustavo Leite Ribeiro
+<p align="center" a href="https://www.linkedin.com/in/gustavo-leite-2ab31625b/">• Gustavo Leite Ribeiro
 <p align="center">link para o linkedin: https://www.linkedin.com/in/gustavo-leite-2ab31625b/</p>
