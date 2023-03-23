@@ -29,5 +29,6 @@
 
 
 
-<h2 id="Autor" align="center">• Gustavo Leite Ribeiro</h2>
-<p align="center">• https://www.linkedin.com/in/gustavo-leite-2ab31625b/</p>
+<h2 id="Autor" align="center">• Autor</h2>
+<p align="center">• Gustavo Leite Ribeiro
+<p align="center">link para o linkedin: https://www.linkedin.com/in/gustavo-leite-2ab31625b/</p>
