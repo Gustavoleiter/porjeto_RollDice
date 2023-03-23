@@ -7,7 +7,7 @@
 </p>
 
 <h2 id="Objetivo" align="center">• Gerar uma posição aleatoria dentro dos parametros de um dado</h2>
-<p align="center"><img src="https://user-images.githubusercontent.com/125610281/227072556-dcae0fe0-521b-413a-89e6-883cb189cfa9.png" width="500px" heigth="500px">
+<p align="center"><img src="https://user-images.githubusercontent.com/125610281/227072556-dcae0fe0-521b-413a-89e6-883cb189cfa9.png" width="400px" heigth="400px">
 </p>
 
 <h2 id="Tecnologias" align="center">• Kotlin</h2>
