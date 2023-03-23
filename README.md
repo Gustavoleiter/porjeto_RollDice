@@ -13,7 +13,7 @@
 
 
 <h2 id="Tecnologias" align="center">• Kotlin</h2>
-<p align="center"><img src="https://img.shields.io/static/v1?label=Kotlin&message=DiceRoll&color=7159c1&style=for-the-badge&logo=ghost" />
+<p align="center">Feito com a linguagem : <img src="https://img.shields.io/static/v1?label=Kotlin&message=DiceRoll&color=7159c1&style=for-the-badge&logo=ghost" />
 </p>
 
 
