@@ -8,3 +8,11 @@
 </p>
 
 <p id="Objetivo>gerar um numero aleatorio dentro dos parametros de um dado</p>
+asas
+sa
+asa
+sas
+s
+asa
+s
+as
