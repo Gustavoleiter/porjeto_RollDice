@@ -6,3 +6,5 @@
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#autor">Autor</a>
 </p>
+
+<p id="Objetivo>gerar um numero aleatorio dentro dos parametros de um dado</p>
