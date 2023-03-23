@@ -3,16 +3,9 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-<p id="Objetivo">gerar um numero aleatorio dentro dos parametros de um dado</p>
-asas
-sa
-asa
-sas
-s
-asa
-s
-as
+<h2 id="Objetivo">• Gerar um numero aleatorio dentro dos parametros de um dado</h2>
+<h2 id="Tecnologias">• Kotlin</h2>
+<h2 id="Autor">• Gustavo Leite Ribeiro</h2>
